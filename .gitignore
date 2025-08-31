@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual env
+.env
+.venv
+venv/
+ENV/
+env/
+*.env
+
+# IDE / Editors
+.vscode/
+.idea/
+*.iml
+
+# Byte-compiled / cache
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.mypy_cache/
+*.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# SQLite / DB
+*.db
+*.sqlite3
+
+# Docker
+*.pid
+*.sock
+
+# Coverage / testing
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Misc
+*.bak
+*.swp
