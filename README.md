@@ -1,1 +1,1 @@
-The very simple application, made fully on Python, using such technologies as: FastAPI for the backend, flet for the frontend, may be used as the base of the fully-functional notion system.
+The very simple application, made fully on Python, using such technologies as: FastAPI for the backend, may be used as the base of the fully-functional notion system.
